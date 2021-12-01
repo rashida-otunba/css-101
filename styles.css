@@ -1,0 +1,19 @@
+h2{ 
+    color: pink;
+    align-items: right;
+}
+
+.border{
+    border: 2px solid; 
+    padding: 20px; 
+    
+}
+
+.dashed-border{
+    color: red; 
+}
+
+#title{
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

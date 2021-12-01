@@ -1,0 +1,10 @@
+body{
+    font-style: italic;
+    background-color: yellow;
+    
+}
+
+li:hover{
+    background-color:green;
+    
+}
